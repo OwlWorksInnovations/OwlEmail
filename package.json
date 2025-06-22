@@ -1,0 +1,20 @@
+{
+  "name": "owlemail",
+  "version": "1.0.0",
+  "description": "A email server for all my websites that require me to send emails",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "email",
+    "server"
+  ],
+  "author": "OwlWorksInnovations",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "nodemailer": "^7.0.3"
+  }
+}
